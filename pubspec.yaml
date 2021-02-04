@@ -1,0 +1,25 @@
+name: windows_icon
+description: Windows Icon for flutter.
+version: 0.0.1
+author: Muhammad Noerhidayatullah
+homepage: https://github.com/m-noer
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+   fonts:
+     - family: WinIcons
+       fonts:
+         - asset: fonts/win10.ttf
+
+

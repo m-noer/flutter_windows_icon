@@ -1,0 +1,77 @@
+library windows_icon;
+
+import 'package:flutter/widgets.dart';
+import 'icon_data.dart';
+
+class WinIcons {
+  static const IconData addCart = WinIconData(0xf100);
+  static const IconData addPerson = WinIconData(0xf101);
+  static const IconData compass = WinIconData(0xf102);
+  static const IconData warning = WinIconData(0xf103);
+  static const IconData airPlane = WinIconData(0xf104);
+  static const IconData alignCenter = WinIconData(0xf105);
+  static const IconData alignJustify = WinIconData(0xf106);
+  static const IconData alignLeft = WinIconData(0xf107);
+  static const IconData alignRight = WinIconData(0xf108);
+  static const IconData sortAsc = WinIconData(0xf109);
+  static const IconData sortDesc = WinIconData(0xf10a);
+  static const IconData americanExpress = WinIconData(0xf10b);
+  static const IconData chevronDown = WinIconData(0xf10c);
+  static const IconData chevronLeft = WinIconData(0xf10d);
+  static const IconData chevronRight = WinIconData(0xf10e);
+  static const IconData chevronUp = WinIconData(0xf10f);
+  static const IconData arrowDown = WinIconData(0xf112);
+  static const IconData arrowLeft = WinIconData(0xf113);
+  static const IconData arrowRight = WinIconData(0xf114);
+  static const IconData arrowUp = WinIconData(0xf115);
+  static const IconData asterics = WinIconData(0xf116);
+  static const IconData music = WinIconData(0xf117);
+  static const IconData babyHead = WinIconData(0xf118);
+  static const IconData creditCard = WinIconData(0xf119);
+  static const IconData money = WinIconData(0xf11a);
+  static const IconData chart = WinIconData(0xf11b);
+  static const IconData barcode = WinIconData(0xf11c);
+  static const IconData bed = WinIconData(0xf11D);
+  static const IconData binocular = WinIconData(0xf11e);
+  static const IconData bitcoin = WinIconData(0xf11f);
+  static const IconData bootstrap = WinIconData(0xf120);
+  static const IconData bookmark = WinIconData(0xf121);
+  static const IconData archive = WinIconData(0xf122);
+  static const IconData bag = WinIconData(0xf123);
+  static const IconData euro = WinIconData(0xf124);
+  static const IconData paintBrush = WinIconData(0xf125);
+  static const IconData cartLoad = WinIconData(0xf126);
+  static const IconData calculator = WinIconData(0xf127);
+  static const IconData camera = WinIconData(0xf128);
+  static const IconData cancelCircle = WinIconData(0xf129);
+  static const IconData stop = WinIconData(0xf12a);
+  static const IconData dogFoot = WinIconData(0xf12b);
+  static const IconData checkCircleOverflow = WinIconData(0xf12c);
+  static const IconData checkSquareOverflow = WinIconData(0xf12d);
+  static const IconData check = WinIconData(0xf12e);
+  static const IconData chevronDownBorder = WinIconData(0xf12f);
+  static const IconData chevronDownCircle = WinIconData(0xf130);
+  static const IconData chevronLeftBorder = WinIconData(0xf131);
+  static const IconData chevronLeftCircle = WinIconData(0xf132);
+  static const IconData chevronRightBorder = WinIconData(0xf133);
+  static const IconData chevronRightCircle = WinIconData(0xf134);
+  static const IconData chevronUpBorder = WinIconData(0xf135);
+  static const IconData chevronUpCircle = WinIconData(0xf136);
+  static const IconData circle = WinIconData(0xf137);
+  static const IconData circleOpen = WinIconData(0xf138);
+  static const IconData circleLight = WinIconData(0xf139);
+  static const IconData clipboard = WinIconData(0xf13a);
+  static const IconData codeFile = WinIconData(0xf13b);
+  static const IconData eyedropper = WinIconData(0xf13c);
+  static const IconData chat = WinIconData(0xf13e);
+  static const IconData unFullscreen = WinIconData(0xf13f);
+  static const IconData gameController = WinIconData(0xf140);
+  static const IconData copy = WinIconData(0xf141);
+  static const IconData copyright = WinIconData(0xf142);
+  static const IconData edit = WinIconData(0xf143);
+  static const IconData crop = WinIconData(0xf144);
+  static const IconData cut = WinIconData(0xf145);
+
+  static const IconData visa = WinIconData(0xf1e6);
+}
+
