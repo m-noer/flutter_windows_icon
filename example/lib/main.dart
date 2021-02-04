@@ -24,6 +24,7 @@ class MyHomePage extends StatelessWidget {
     return Scaffold(
       body: Column(
         children: [
+          Icon(IconData(0xf11a, fontFamily: 'WinIcons')),
           Icon(
             WinIcons.airPlane,
             size: 100,

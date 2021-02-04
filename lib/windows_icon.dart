@@ -1,7 +1,7 @@
 library windows_icon;
 
 import 'package:flutter/widgets.dart';
-import 'icon_data.dart';
+import 'package:windows_icon/icon_data.dart';
 
 class WinIcons {
   static const IconData addCart = WinIconData(0xf100);
@@ -74,4 +74,3 @@ class WinIcons {
 
   static const IconData visa = WinIconData(0xf1e6);
 }
-
